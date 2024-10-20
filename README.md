@@ -1,5 +1,3 @@
-j
-
 Am declarat variabilele:
 
 char command[20]: pentru citirea de la tastura a comenzilor
